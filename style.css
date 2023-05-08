@@ -1,0 +1,21 @@
+h1 {
+    text-align: left;
+    background-color: black;
+    color:white;
+    font-family:cursive;
+    }
+span {
+    color:aqua;
+    }
+h2 {
+    text-align:center;
+    background-color:rebeccapurple;
+    color:white;
+}
+h3 {
+    text-align:right;
+    background-color:lightskyblue;
+    color:black;
+    text-decoration:underline;
+
+}
